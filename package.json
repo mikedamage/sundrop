@@ -1,6 +1,6 @@
 {
   "name": "sundrop-svg",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "type": "module",
   "main": "dist/index.js",
   "exports": {
@@ -8,7 +8,7 @@
   },
   "author": "Mike Green <mike.is.green@gmail.com>",
   "bin": {
-    "sundrop": "dist/bin/sundrop.js"
+    "sundrop": "dist/bin/sundrop.mjs"
   },
   "files": ["dist"],
   "devDependencies": {
