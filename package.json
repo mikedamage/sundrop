@@ -8,7 +8,7 @@
   },
   "author": "Mike Green <mike.is.green@gmail.com>",
   "bin": {
-    "sundrop": "dist/bin/sundrop.js"
+    "sundrop": "dist/bin/sundrop.mjs"
   },
   "files": ["dist"],
   "devDependencies": {
