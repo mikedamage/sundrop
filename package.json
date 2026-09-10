@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "picomatch": "^4.0.5",
-    "svgo": "^4.0.2",
+    "svgo": "^4.1.0",
     "yargs": "^18.0.0"
   },
   "scripts": {
